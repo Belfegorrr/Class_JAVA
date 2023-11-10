@@ -1,0 +1,17 @@
+INICIO
+    1.Abro o olho;
+    2.SE minha mulher não estiver acordada;
+        1.Incomodo ela;
+        2.Aperto ela;
+        3.Faço sons até ela acordar;
+    3. Levanto
+    4. SE minha mulher tiver feito café;
+        1. como o pão;
+        2. bebo o café;
+    5. SE minha mulher não tiver feito o café;
+        1. esquento a água;
+        2. ponho o pó de café;
+        3. preparo o pão;
+        4. jogo a água no coador;
+        5. sento para comer;
+FIM
